@@ -89,7 +89,7 @@ Nginx 目录： `/etc/nginx`
 
 目前支持通过 MugglePay 接受虚拟货币捐赠
 
-𝒘𝒖𝒍𝒂𝒃𝒊𝒏𝒈 邀请您使用麻瓜宝，基于Telegram的电子钱包，匿名支付0手续费秒级到账。https://ume.la/Im4cyE
+Jacksunhack 邀请您使用麻瓜宝，基于Telegram的电子钱包，匿名支付0手续费秒级到账。https://ume.la/Im4cyE
 
 您可以通过Telegram向我匿名捐赠：发送 /pay @jacksunhack xxx  到 @MugglePayBot 即可 默认货币为 USDT 
 
